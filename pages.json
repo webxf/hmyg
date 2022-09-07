@@ -35,6 +35,17 @@
             }
             
         }
+       
+    ],
+    "subPackages": [
+     {
+       "root":"subpkg",
+       "pages":[
+         {
+           "path":"goods_detail/goods_detail/goods_detail"
+         }
+       ]
+     }
     ],
     "tabBar": {
       "selectedColor": "#C00000",
